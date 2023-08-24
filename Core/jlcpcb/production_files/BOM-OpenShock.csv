@@ -1,0 +1,27 @@
+Comment,Designator,Footprint,LCSC
+SW_SPST,"SW1,SW2",SW_PUSH_6mm_customized,C13828
+100nF,"C1,C3,C5,C7,C8",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C14663
+USB_C_Receptacle_USB2.0,J1,HRO-TYPE-C-31-M-12-HandSoldering_ABPads,C165948
+Polyfuse,F1,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,C17888
+10uF,"C2,C4,C6,C9",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C19702
+POWER,D4,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C2286
+5.1k,"R4,R5,R6,R7,R8",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23186
+100k,R3,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25803
+10k,"R1,R2,R9",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25804
+ESP32-S3-WROOM-1,U1,ESP32-S3-WROOM-1,C2913204
+DL-TX1-433M,U4,WIELM-TH_DL-TX1-433M,C381160
+22uF,"C10,C11,C12",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C45783
+WS2812B,D1,LED_WS2812B-Mini_3.5x3.5mm_P1.75mm,C527089
+AMS1117-3.3,U2,SOT-223-3_TabPin2,C6186
+PJ-3200-3A,CN1,AUDIO-TH_PJ-3200-3A,C709202
+STATUS,D3,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C72043
+D_Schottky,D2,D_SOD-123,C8598
+Antenna,AE1,PinHeader_1x01_P2.54mm_Vertical,C961609
+USB Breakout,J6,PinSocket_1x05_P2.54mm_Vertical,
+Conn_01x03_Socket,J3,PinSocket_1x03_P2.54mm_Vertical,
+SW_SPST,SW3,SW_PUSH-12mm,
+Conn_01x07_Socket,J4,1X07_LOCK,
+MCP1700x-300xxTT,U3,SOT-23_Handsoldering,
+Conn_01x03_Socket,J2,PinSocket_1x03_P2.54mm_Vertical,
+Fiducial,FID4,Fiducial_0.5mm_Mask1mm,
+Fiducial,FID1,Fiducial_0.5mm_Mask1mm,
