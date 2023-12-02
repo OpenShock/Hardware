@@ -17,11 +17,4 @@ PJ-3200-3A,CN1,AUDIO-TH_PJ-3200-3A,C709202
 STATUS,D3,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,C72043
 D_Schottky,D2,D_SOD-123,C8598
 Antenna,AE1,PinHeader_1x01_P2.54mm_Vertical,C961609
-USB Breakout,J6,PinSocket_1x05_P2.54mm_Vertical,
-Conn_01x03_Socket,J3,PinSocket_1x03_P2.54mm_Vertical,
-SW_SPST,SW3,SW_PUSH-12mm,
-Conn_01x07_Socket,J4,1X07_LOCK,
-MCP1700x-300xxTT,U3,SOT-23_Handsoldering,
-Conn_01x03_Socket,J2,PinSocket_1x03_P2.54mm_Vertical,
 Fiducial,FID4,Fiducial_0.5mm_Mask1mm,
-Fiducial,FID1,Fiducial_0.5mm_Mask1mm,

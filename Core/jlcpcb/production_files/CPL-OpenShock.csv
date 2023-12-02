@@ -18,8 +18,6 @@ D2,D_Schottky,D_SOD-123,105.156,-96.8655,-90.0,top
 D3,STATUS,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,139.192,-81.214,90.0,top
 D4,POWER,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,135.128,-81.214,90.0,top
 F1,Polyfuse,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,105.156,-102.108,-90.0,top
-FID1,Fiducial,Fiducial_0.5mm_Mask1mm,98.552,-37.084,90.0,top
-FID4,Fiducial,Fiducial_0.5mm_Mask1mm,145.78,-110.7834,90.0,top
 FID4,Fiducial,Fiducial_0.5mm_Mask1mm,98.568,-110.76,90.0,top
 J1,USB_C_Receptacle_USB2.0,HRO-TYPE-C-31-M-12-HandSoldering_ABPads,115.57,-112.97,0.0,top
 R1,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,131.445,-70.7625,-90.0,top
