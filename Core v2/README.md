@@ -14,3 +14,10 @@ v2.0
 - 3.3v regulator
 - More compact than v1
 - Footprint 40mm x 56mm
+
+#### Important ordering information:
+- PCB Thickness: 1.0mm
+- 4 Layers
+- WS2812B-Minis may incur an extra component baking fee
+- Impedence Controlled for JLCPCB's `JLC04101H-7628` stackup
+- Edge Rails in source files are not attached, and are not included in JLC gerbers
