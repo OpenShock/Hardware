@@ -21,3 +21,7 @@ v2.0
 - WS2812B-Minis may incur an extra component baking fee
 - Impedence Controlled for JLCPCB's `JLC04101H-7628` stackup
 - Edge Rails in source files are not attached, and are not included in JLC gerbers
+
+#### Redlines (v2.0):
+- R1 (high side pullup for RF TX level-shifting) was causing unwanted RF signals when IO1 was Hi-Z/Input Enabled.
+- EN pin missing debounce capacitor.

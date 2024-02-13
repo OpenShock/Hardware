@@ -20,7 +20,6 @@ D4,WS2812B-Mini3535,LED_WS2812B-Mini_3.5x3.5mm_P1.75mm,134.23,-83.7,0.0,top
 F1,Polyfuse,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,119.15,-101.1,0.0,top
 J2,USB_C_Receptacle_USB2.0,HRO-TYPE-C-31-M-12-HandSoldering_ABPads,121.967572,-112.425,0.0,top
 Q1,BSS138,SOT-23,117.75,-74.15,-90.0,top
-R1,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,114.2125,-73.0,0.0,top
 R2,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,132.4746,-97.5003,180.0,top
 R3,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,113.6,-79.3,0.0,top
 R4,5.1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,131.8,-68.8,0.0,top

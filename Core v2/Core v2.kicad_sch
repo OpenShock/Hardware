@@ -3384,7 +3384,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 95.885 182.245 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 11b72614-6c58-45d5-b0ef-cbf11baaece8)
     (property "Reference" "R1" (at 99.695 180.975 0)
       (effects (font (size 1.27 1.27)))
