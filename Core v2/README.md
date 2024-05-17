@@ -2,9 +2,9 @@
 
 #### Now only two layers!
 
-![2024-05-16--23-05-26-kicad](https://github.com/OpenShock/Hardware/assets/20761757/16b40d7f-5c7c-46bd-8691-fa044252268a)
+![2024-05-16--23-23-04-kicad](https://github.com/OpenShock/Hardware/assets/20761757/a8fd416f-7b06-49a0-95c0-545dd6f24fcb)
 
-![wF1W8qGIAY](https://github.com/OpenShock/Hardware/assets/20761757/860ca29c-f311-4dcb-a9d3-c8d7d4cef2a4)
+![2024-05-16--23-23-11-kicad](https://github.com/OpenShock/Hardware/assets/20761757/cfb0b30f-23d7-49a5-80b2-9c677b2c6607)
 
 #### Specs:
 - ESP32-S3-WROOM-1
