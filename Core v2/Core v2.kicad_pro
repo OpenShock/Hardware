@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -478,7 +478,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.15,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -488,7 +488,7 @@
         "name": "50OHM",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.34925,
+        "track_width": 0.719836,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
@@ -546,17 +546,17 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.2032,
-        "diff_pair_gap": 0.1524,
+        "clearance": 0.127,
+        "diff_pair_gap": 0.127,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2413,
+        "diff_pair_width": 0.24511,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "USB_D",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.225552,
+        "track_width": 0.24511,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
@@ -616,10 +616,6 @@
       {
         "netclass": "Power",
         "pattern": "+3V3"
-      },
-      {
-        "netclass": "Signal",
-        "pattern": "RF_Signal"
       }
     ]
   },

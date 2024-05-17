@@ -1,9 +1,10 @@
-## OpenShock Core V2.1
+## OpenShock Core V2.2L
 
+#### Now only two layers!
 
-![2024-05-16--22-54-31-kicad](https://github.com/OpenShock/Hardware/assets/20761757/aa46de72-ddff-41f8-bfed-6b0960d3e07f)
+![2024-05-16--23-05-26-kicad](https://github.com/OpenShock/Hardware/assets/20761757/16b40d7f-5c7c-46bd-8691-fa044252268a)
 
-![qLOPlbv9ng](https://github.com/OpenShock/Hardware/assets/20761757/e706d793-6bf8-43be-b28a-68b780d25b00)
+![wF1W8qGIAY](https://github.com/OpenShock/Hardware/assets/20761757/860ca29c-f311-4dcb-a9d3-c8d7d4cef2a4)
 
 #### Specs:
 - ESP32-S3-WROOM-1
@@ -16,8 +17,8 @@
 
 #### Important ordering information:
 - PCB Thickness: **1.0mm**
-- **4** Layers
-- Impedence Controlled for JLCPCB's `JLC04101H-7628` stackup
+- **2** Layers
+- Impedence Controlled for JLCPCB's 1.0mm stackup
 - Edge Rails in source files are not attached, and are not included in JLC gerbers
 - **Standard PCBA** only (As of writing, Economy PCBA is unsupported for the ESP32-S3 modules due to solder reflow curve requirements)
 
@@ -36,4 +37,7 @@ JLCPCB may contact you about a couple of things:
 - EN pin missing debounce capacitor.
 
 #### Redlines (v2.1):
+- To be discovered.
+
+#### Redlines (v2.2):
 - To be discovered.
